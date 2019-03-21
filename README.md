@@ -11,15 +11,15 @@ In this game the goal is simple, get the hero character to move across the gray 
 Users move the hero character by using the main up/right/left/down arrow keys on their keyboard.
 
 ## Links to GitHub Repository (Master Branch)
-* GitHub Project Repository: [https://github.com/kishorchouhan/Frogger-Arcade-Game/](https://github.com/kishorchouhan/Frogger-Arcade-Game "GitHub project repository")
-* Start playing here: [https://kishorchouhan.github.io/Frogger-Arcade-Game/](https://kishorchouhan.github.io/Frogger-Arcade-Game/ "Start playing here")
+* GitHub Project Repository: [https://github.com/kishorchouhan/Frogger-Arcade-Game-Udacity-Project/](https://github.com/kishorchouhan/Frogger-Arcade-Game-Udacity-Project/ "GitHub project repository")
+* Start playing here: [https://kishorchouhan.github.io/Frogger-Arcade-Game-Udacity-Project/](https://kishorchouhan.github.io/Frogger-Arcade-Game-Udacity-Project/ "Start playing here")
 
 ## Installation
 To run the application:
 
 1. Download the GitHub zip file or clone the repository onto your local workstation:
-	* zip file [https://github.com/kishorchouhan/Frogger-Arcade-Game/archive/master.zip](https://github.com/kishorchouhan/Frogger-Arcade-Game/archive/master.zip "download zip file")
-	* git clone [https://github.com/kishorchouhan/Frogger-Arcade-Game.git/](https://github.com/kishorchouhan/Frogger-Arcade-Game.git "git clone repository")
+	* zip file [https://github.com/kishorchouhan/Frogger-Arcade-Game-Udacity-Project/archive/master.zip](https://github.com/kishorchouhan/Frogger-Arcade-Game-Udacity-Project/archive/master.zip "download zip file")
+	* git clone [https://github.com/kishorchouhan/Frogger-Arcade-Game-Udacity-Project.git/](https://github.com/kishorchouhan/Frogger-Arcade-Game-Udacity-Project.git "git clone repository")
 2. Open a browser window and navigate to the index.html file in your application's directory.
 
 ## Tools / Techniques
